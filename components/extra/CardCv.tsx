@@ -5,8 +5,8 @@ const CardCv = () => {
 
   const handleDownloadCV = () => {
     // Puedes ajustar el nombre del archivo y la ruta según sea necesario
-    const fileName = 'CV-Facundo-Allende.docx'; 
-    const filePath = '/cv/Cv-FacundoAllende.docx'; 
+    const fileName = 'CV-Nahuel-Soaje.docx'; 
+    const filePath = '/cv/Ns-CV.docx'; 
 
     // Crear un elemento <a> invisible para iniciar la descarga
     const link = document.createElement('a');

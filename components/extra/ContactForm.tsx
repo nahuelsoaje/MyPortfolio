@@ -18,9 +18,9 @@ const ContactForm = () => {
 
   const sendEmail = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    const serviceId = process.env.REACT_APP_SERVICE_ID || 'service_mvj7bsk';
-    const templateId = process.env.REACT_APP_TEMPLATE_ID || 'template_f52kkx8';
-    const userId = process.env.REACT_APP_USER_ID || 'gQFCgGSPgXBUPaknW';
+    const serviceId = process.env.REACT_APP_SERVICE_ID || 'service_jd69hw1';
+    const templateId = process.env.REACT_APP_TEMPLATE_ID || 'template_qem57hc';
+    const userId = process.env.REACT_APP_USER_ID || 'kyKI1jaD4Bp7ZiRbg';
 
     if (form.current) {
       if (!form.current.checkValidity()) {

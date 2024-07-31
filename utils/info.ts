@@ -2,14 +2,14 @@ let info = {
   hero: {
       primerSubtitulo: "MI PORTAFOLIO",
       tituloPrincipal: "FULL STACK DEVELOPER",
-      segundoSubitulo: "Hola, soy Facundo Allende.",
+      segundoSubitulo: "Hola, soy Nahuel Soaje.",
       btnText: "Mis Proyectos"
   },
   aboutme: {
       title: "Sobre mi",
       mainText: ", un apasionado desarrollador web. Me especializo en el backend y frontend, siendo un desarrollador FullStack. Mi interes por la resolución de problemas me motiva a buscar continuamente nuevas oportunidades de aprendizaje y crecimiento. Con sólidos conocimientos en tecnologías web, estoy listo para enfrentar cualquier desafío. ¡Espero construir algo grandioso juntos!",
       subtitle: "Datos Personales",
-      englishL: "Ingles - nivel: Avanzado B2-C1",
+      englishL: "Ingles - nivel: Basico",
       spanishL: "Español - nivel: Nativo C2",
       educacion: [
           {
@@ -18,13 +18,13 @@ let info = {
               period: "AGOSTO 2022 - JULIO 2024"
           },
           {
-              institute: "Universidad Nacional De Cordoba",
-              degree: 'Curso De Ingles',
-              period: "MARZO 2021 - JUNIO 2024"
+              institute: "Universidad Tecnologica Nacional",
+              degree: 'ing.sistemas',
+              period: "MARZO 2020 - JUNIO 2021"
           },
           {
-              institute: "Colegio Nuestra Senora Del Huerto",
-              degree: 'Bachiller En Ciencias Naturales',
+              institute: "Colegio Mariano Fragueiro",
+              degree: 'Bachiller En Economia y Administracion',
               period: "MARZO 2014 - DICIEMBRE 2019"
           },
       ]
@@ -113,7 +113,7 @@ let info = {
     rentstudio:{
       title: "Rent Studio",
       description: "App para renta de servicios y equipos fotograficos",
-      extraDetail: "El proyecto se llevó a cabo utilizando la metodología SCRUM a lo largo de 4 sprints, con una duración de 14 días cada uno. La aplicación fue desarrollada principalmente con Spring Boot en Java, ReactJS y Tailwind CSS, además de integrar bibliotecas como MUI. Mi rol en este proyecto fue de Fullstack Developer y Scrum Master. Lideré al equipo, asegurando que cada miembro alcanzara su máximo potencial y que las tareas se organizaran eficientemente dentro del tiempo disponible.",
+      extraDetail: "El proyecto se llevó a cabo utilizando la metodología SCRUM a lo largo de 4 sprints, con una duración de 14 días cada uno. La aplicación fue desarrollada principalmente con Spring Boot en Java, ReactJS y Tailwind CSS, además de integrar bibliotecas como MUI. Mi rol en este proyecto fue de Fullstack Developer y Scrum Master Mayor mente como Front-end. Lideré al equipo, asegurando que cada miembro alcanzara su máximo potencial y que las tareas se organizaran eficientemente dentro del tiempo disponible.",
       demo: "https://dh.jackmoon.dev",
       imageUrl: "/images/DH/logoRS.png",
       github: "https://github.com/orgs/1774-ProyectoIntegrador/repositories",
@@ -124,12 +124,12 @@ let info = {
         "/images/DH/reservaRS.png",
       ]
     },
-    ncwinds:{
-      title: "NC Winds",
-      description: "Booking de vuelos internacionales",
-      extraDetail: "El proyecto se llevó a cabo utilizando la metodología SCRUM a lo largo de 4 sprints, con una duración de 7 días cada uno. La aplicación fue desarrollada principalmente con Spring Boot en Java, ReactJS y Tailwind CSS, además de integrar bibliotecas como MUI. Mi rol en este proyecto fue de FrontEnd Developer y Scrum Master. Lideré al equipo, asegurando que cada miembro alcanzara su máximo potencial y que las tareas se organizaran eficientemente dentro del tiempo disponible.",
+    odontologia:{
+      title: "clinica odontologica",
+      description: "elije odontologos",
+      extraDetail: "El proyecto se llevó a cabo utilizando la metodología SCRUM a lo largo de 1 sprint, con una duración de 7 días. La aplicación fue desarrollada con react+vite,este proyecto fue de FrontEnd Developer .",
       demo: "https://dh.jackmoon.dev",
-      imageUrl: "/images/DH/logoRS.png",
+      imageUrl: "/images/proyectos/odontologia.png",
       projectImages: [
         "/images/DH/homeRS.png",
         "/images/DH/nuevoProductoRS.png",
