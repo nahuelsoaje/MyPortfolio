@@ -20,7 +20,7 @@ const AboutMe = () => {
           title={title}
           description={
             <>
-              <span className="text-highlight">¡Hola! Soy Facundo Allende</span>
+              <span className="text-highlight">¡Hola! Soy Nahuel Soaje</span>
               {mainText}
             </>
           }
