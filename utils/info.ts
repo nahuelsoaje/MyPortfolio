@@ -128,13 +128,12 @@ let info = {
       title: "clinica odontologica",
       description: "elije odontologos",
       extraDetail: "El proyecto se llevó a cabo utilizando la metodología SCRUM a lo largo de 1 sprint, con una duración de 7 días. La aplicación fue desarrollada con react+vite,este proyecto fue de FrontEnd Developer .",
-      demo: "https://dh.jackmoon.dev",
-      imageUrl: "/images/proyectos/odontologia.png",
+      demo: "https://ctd-esp-fe3-fina-omega.vercel.app/",
+      imageUrl: "/images/proyectos/odontologia/odontologia.png",
       projectImages: [
-        "/images/DH/homeRS.png",
-        "/images/DH/nuevoProductoRS.png",
-        "/images/DH/adminDbRS.png",
-        "/images/DH/reservaRS.png",
+        "/images/proyectos/odontologia/odontologia-Contacto.png",
+        "/images/proyectos/odontologia/odontologia-favs.png",
+      
       ]
     },
   }
